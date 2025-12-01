@@ -4,9 +4,10 @@
 
 layout: home
 ---
+
 Welcome,
 
-This is my design portfolio
+This is my design portfolio, have a look around
 
 Thanks,
 Louise
