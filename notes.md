@@ -37,16 +37,16 @@ Type text normally to insert, it will insert in order as shown in code (writing 
 
 --------------------Links--------------------
 
-Create a link to a page (everything inside """"""):
-<!-- """"""[Hyperlink Text to appear]({% link folder/subfolder/file_name.md %})"""""" -->
+Create a link to a page:
+[Hyperlink Text to appear](/folder/subfolder/file_name/)
 
-Create link to external website (everything inside """"""):
-<!-- """"""[Hyperlink Text to appear](https://webstite-url.com)."""""" -->
+Create link to external website:
+[Hyperlink Text to appear](https://website-url.com)
 
 --------------------Images--------------------
 
-to insert an image (everything inside """"""):
-<!-- """"""![Any Image Name](/Images/image-name.JPG){:.lead width="800" height="100"}"""""" -->
+to insert an image (everything inside ''):
+`![Any Image Name](/Images/image-name.JPG){:.lead width="800" height="100"}`
 
 change width and height to suit
 
