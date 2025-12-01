@@ -37,8 +37,8 @@ Type text normally to insert, it will insert in order as shown in code (writing 
 
 --------------------Links--------------------
 
-Create a link to a page:
-[Hyperlink Text to appear]({% link folder/subfolder/file_name.md %})
+Create a link to a page (everything inside """"""):
+<!-- """"""[Hyperlink Text to appear]({% link folder/subfolder/file_name.md %})"""""" -->
 
 Create link to external website (everything inside """"""):
 <!-- """"""[Hyperlink Text to appear](https://webstite-url.com)."""""" -->
