@@ -7,5 +7,5 @@ title: eStride
 
 Many elderly shoppers experience physical strain and fatigue when using conventional shopping trolleys, limiting comfort and confidence during everyday shopping trips. eStride was designed to provide motorised assistance with intuitive control, supporting safer, smoother movement through supermarket environments while maintaining familiarity and ease of use.
 
-![eStride](/Images/Environment.JPG){:.lead width="800" height="100"}
+![eStride](/Images/Environment.jpg){:.lead width="800" height="100"}
 
