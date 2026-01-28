@@ -29,17 +29,19 @@ Design development prioritised intuitive user control, ergonomic adjustment, and
 #### Simple Slide Control 
 A single-axis sliding handle was developed to provide intuitive forward and reverse control while minimising cognitive load. Speed was deliberately limited to approximately 3.5 mph to prioritise user confidence and safety in busy retail environments.
 
-![Extended](/Images/button-control.png){:.width="200" length="400"}
+![Extended](/Images/button-control.png){:.width="50" length="100"}
 
 #### Height Adjustment 
 Adjustable handle bars allow the trolley to accommodate a wide range of user heights, supporting ergonomic posture and reducing strain during prolonged use.
 
-![Extended](/Images/extend.png){:.width="200" length="400"}
-![Extended](/Images/lowered.png){:.width="200" length="400"}
+![Extended](/Images/extend.png){:.width="50" length="100"}
+
+![Extended](/Images/lowered.png){:.width="50" length="100"}
 
 #### Long Lasting Power
 An integrated rechargeable battery was positioned low within the chassis to improve stability while supporting extended shopping trips. This placement balances weight distribution and enables up to 15 hours of use without compromising manoeuvrability.
 
-![Extended](/Images/Box.png){:.width="200" length="400"}
-![Extended](/Images/explode-box.png){:.width="200" length="400"}
+![Extended](/Images/Box.png){:.width="50" length="100"}
+
+![Extended](/Images/explode-box.png){:.width="50" length="100"}
 
