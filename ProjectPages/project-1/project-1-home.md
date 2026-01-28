@@ -14,11 +14,11 @@ Many elderly shoppers experience physical strain and fatigue when using conventi
 
 Early ideation explored shopping trolley aesthetics, functionality, and structural integrity to support stability and ease of use.
 
-![Form Exploration](/Images/Form-Exploration.png){:.lead}
+![Form Exploration](/Images/Form.jpg){:.lead}
 
 ### Design for Manufacture and Assembly 
 
 The trolley was developed with manufacture and assembly in mind, using a modular frame structure and repeatable components to reduce part count and simplify assembly. Symmetrical frame elements, standardised fixings, and accessible component placement support efficient production, maintenance, and future repair. 
 
-![Exploded](/Images/Untitled-Project(1).png){:.lead}
+![Exploded](/Images/Explode.png){:.lead}
 
