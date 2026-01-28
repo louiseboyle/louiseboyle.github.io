@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project 2
+title: eStride
 ---
 ## Motorised Shopping Trolley for the Elderly
 ### Problem and Purpose 
