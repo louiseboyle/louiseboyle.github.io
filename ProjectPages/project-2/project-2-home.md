@@ -1,5 +1,5 @@
 ---
-layout: Lunch Box Legends 
+layout: Default
 title: Lunch Box Legends 
 ---
 ### Sustainable Children's Fruit and Vegetable Packaging Design 
