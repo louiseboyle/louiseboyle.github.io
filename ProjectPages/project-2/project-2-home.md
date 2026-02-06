@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Project 2
+title: Lunch Box Legends 
 ---
