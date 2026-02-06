@@ -45,3 +45,10 @@ An integrated rechargeable battery was positioned low within the chassis to impr
 
 ![Extended](/Images/explode&#32;box.png){:.width="400" height="200"}
 
+#### Prototyping 
+
+A 1:1 scale model of the trolley was designed using CNC cut panels, 3D printed PLA handles and outsourced swivel casters and wheels. 
+
+![prototype](/Images/TROLLEY1.png){:.width="400" height="200"}
+![prototype](/Images/TROLLEY2.png){:.width="400" height="200"}
+
