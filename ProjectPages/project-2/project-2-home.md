@@ -6,7 +6,7 @@ title: Lunch Box Legends
 #### Problem and Purpose
 A lack of engaging and sustainable packaging contributes to low fruit and vegetable consumption among school-aged children and unnecessary food waste. This project aimed to address this by designing a playful, reusable packaging concept that encourages healthier eating habits while supporting more responsible purchasing choices.
 
-![lbl](/Images/LUNCHBOX.PNG){:.lead width="800" height="100"}
+![lbl](/Images/LUNCHBOX.PNG){:.lead }
 
 ### Starpack Competition Submission Boards: 
 [View full project PDF](Louise_Boyle_COMP_BRIEFD.pdf)
