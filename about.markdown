@@ -10,3 +10,7 @@ Alongside my studies, I work as a dance educator and retail assistant, experienc
 
 My design approach is process-led and detail-focused, spanning sketching, prototyping, and CAD across both physical and digital design. I value collaboration, sustainability, and continuous learning, and I aim to create practical, meaningful solutions that make a genuine impact.
 
+### View my portfolio here!
+
+
+
