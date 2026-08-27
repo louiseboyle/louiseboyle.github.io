@@ -4,11 +4,13 @@ title: About Me
 permalink: /about/
 ---
 
-I’m Louise Boyle, a Product Design and Innovation student pursuing an MSci at the University of Strathclyde. I’m passionate about tackling real-world problems through user-centred, research-driven design.
+Hello! I'm Louise, a Product Design and Innovation graduate from Scotland with a passion for innovation and sustainable product development.
 
-Alongside my studies, I work as a dance educator and retail assistant, experiences that have strengthened my communication skills, adaptability, and understanding of user needs in diverse environments.
+During my studies, I completed an internship with the Design Engineering team at the National Manufacturing Institute Scotland (NMIS), where I explored how AI-driven solutions could be used to optimise design processes and improve efficiency.
 
-My design approach is process-led and detail-focused, spanning sketching, prototyping, and CAD across both physical and digital design. I value collaboration, sustainability, and continuous learning, and I aim to create practical, meaningful solutions that make a genuine impact.
+I now work at DS Smith as a Design for Implementation Specialist (Structural Packaging Designer), collaborating with customers and cross-functional teams to develop innovative and sustainable packaging solutions. My work focuses on balancing performance, manufacturability, sustainability, and commercial requirements to deliver effective real-world products.
+
+Feel free to explore my projects, designs, and experiments showcased throughout this site.
 
 #### View my portfolio here!
 [View full portfolio](Louise_Boyle_Portfolio_2026.pdf)
