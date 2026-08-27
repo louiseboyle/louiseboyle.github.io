@@ -5,10 +5,19 @@
 layout: home
 ---
 
-Welcome,
+Welcome to my GitHub!
 
-This is my design portfolio, have a look around
+I'm a Structural Packaging Designer with a background in Product Design and Innovation. 
 
-Thanks,
+This space is where I share past projects, learning experiences and development work from my time at University and my current role. 
+
+You'll find: 
+- Structural packaging projects
+- MSci and BSci Industrial Group Projects
+- MSci and BSci Individual project portfolios
+- Design concepts and development work
+
+Thanks for visiting!
+
 Louise
 
